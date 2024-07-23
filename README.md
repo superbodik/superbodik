@@ -1,5 +1,6 @@
 - 👋 Hi, I'm @superbodik
 - 👀 I'm interested in ...creating programmes and websites
+- 🛠️ I'm learning Ts react-native and creating my own program.
 - 🌱 I am currently learning ...java & C++
 - 🎇 Writing websites in php js & python
 - 💞️ I am looking for a collaboration opportunity in ... gamedev
