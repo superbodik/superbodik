@@ -21,6 +21,7 @@
 
 <p align="center">
   <a href="https://t.me/superbodik223"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/pc_boost_R2"><img src="https://img.shields.io/badge/PC%20Boost%20channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="PC Boost Telegram channel"/></a>
   <a href="https://discord.gg/KJYVUw7mhs"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://github.com/superbodik/slahManager/releases/latest"><img src="https://img.shields.io/badge/slahManager-Download-FF8FC7?style=for-the-badge&logo=github&logoColor=white" alt="Download slahManager"/></a>
 </p>
