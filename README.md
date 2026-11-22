@@ -76,20 +76,22 @@
 
 ---
 
-## GitHub Analytics
+## Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=superbodik&theme=dark&hide_border=true&background=0D1117&ring=FF8FC7&fire=FF8FC7&currStreakNum=FF8FC7&sideNums=FFFFFF&currStreakLabel=FF8FC7&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak"/>
+  <img src="assets/calendar.svg" width="100%" alt="contribution calendar"/>
 </p>
 
 <p align="center">
-  <img src="assets/languages.svg" width="90%" alt="languages by code size"/>
+  <img src="https://raw.githubusercontent.com/superbodik/superbodik/output/snake.svg" width="100%" alt="snake eating contributions"/>
 </p>
 
-## Contribution Graph
+<p align="center">
+  <img src="assets/activity.svg" width="100%" alt="last 30 days"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=superbodik&bg_color=0D1117&color=C9D1D9&line=FF8FC7&point=FFFFFF&area=true&area_color=FF8FC7&hide_border=true" alt="contribution graph"/>
+  <img src="assets/languages.svg" width="100%" alt="languages by code size"/>
 </p>
 
 ---
