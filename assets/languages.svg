@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="178" viewBox="0 0 840 178">
+  <rect x="0.5" y="0.5" width="839" height="177" rx="10" fill="#0B0B0B" stroke="#1E1E1E"/>
+  <text x="32" y="42" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#ECECEC">languages by code size</text><text x="808" y="42" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#5A5A5A" text-anchor="end">across 89 repositories</text>
+  <clipPath id="bar"><rect x="32" y="66" width="776" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#bar)">
+  <rect x="32.0" y="66" width="460.3" height="10" fill="#4B8BBE"/>
+  <rect x="492.3" y="66" width="114.6" height="10" fill="#E8875F"/>
+  <rect x="606.9" y="66" width="45.1" height="10" fill="#4A9EDB"/>
+  <rect x="652.0" y="66" width="34.2" height="10" fill="#3178C6"/>
+  <rect x="686.2" y="66" width="33.4" height="10" fill="#9B7BFF"/>
+  <rect x="719.6" y="66" width="27.9" height="10" fill="#F1E05A"/>
+  <rect x="747.4" y="66" width="24.2" height="10" fill="#00ADD8"/>
+  <rect x="771.7" y="66" width="14.0" height="10" fill="#A076D6"/>
+  <rect x="785.7" y="66" width="11.2" height="10" fill="#5391FE"/>
+  <rect x="796.9" y="66" width="11.1" height="10" fill="#3A3A3A"/>
+  </g>
+  <circle cx="37" cy="108" r="5" fill="#4B8BBE"/><text x="50" y="112" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#ECECEC">Python</text><text x="178" y="112" font-family="'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace" font-size="12" fill="#5A5A5A" text-anchor="end">59.3%</text>
+  <circle cx="195" cy="108" r="5" fill="#E8875F"/><text x="208" y="112" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#ECECEC">Rust</text><text x="336" y="112" font-family="'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace" font-size="12" fill="#5A5A5A" text-anchor="end">14.8%</text>
+  <circle cx="353" cy="108" r="5" fill="#4A9EDB"/><text x="366" y="112" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#ECECEC">C++</text><text x="494" y="112" font-family="'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace" font-size="12" fill="#5A5A5A" text-anchor="end">5.8%</text>
+  <circle cx="511" cy="108" r="5" fill="#3178C6"/><text x="524" y="112" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#ECECEC">TypeScript</text><text x="652" y="112" font-family="'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace" font-size="12" fill="#5A5A5A" text-anchor="end">4.4%</text>
+  <circle cx="669" cy="108" r="5" fill="#9B7BFF"/><text x="682" y="112" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#ECECEC">C#</text><text x="810" y="112" font-family="'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace" font-size="12" fill="#5A5A5A" text-anchor="end">4.3%</text>
+  <circle cx="37" cy="138" r="5" fill="#F1E05A"/><text x="50" y="142" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#ECECEC">JavaScript</text><text x="178" y="142" font-family="'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace" font-size="12" fill="#5A5A5A" text-anchor="end">3.6%</text>
+  <circle cx="195" cy="138" r="5" fill="#00ADD8"/><text x="208" y="142" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#ECECEC">Go</text><text x="336" y="142" font-family="'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace" font-size="12" fill="#5A5A5A" text-anchor="end">3.1%</text>
+  <circle cx="353" cy="138" r="5" fill="#A076D6"/><text x="366" y="142" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#ECECEC">Elixir</text><text x="494" y="142" font-family="'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace" font-size="12" fill="#5A5A5A" text-anchor="end">1.8%</text>
+  <circle cx="511" cy="138" r="5" fill="#5391FE"/><text x="524" y="142" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#ECECEC">PowerShell</text><text x="652" y="142" font-family="'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace" font-size="12" fill="#5A5A5A" text-anchor="end">1.4%</text>
+  <circle cx="669" cy="138" r="5" fill="#3A3A3A"/><text x="682" y="142" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#ECECEC">Other</text><text x="810" y="142" font-family="'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace" font-size="12" fill="#5A5A5A" text-anchor="end">1.4%</text>
+</svg>
