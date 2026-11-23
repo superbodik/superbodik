@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="674" height="446" viewBox="0 0 674 446">
-  <rect x="0.5" y="0.5" width="673" height="445" rx="10" fill="#0D1117" stroke="#30363D"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="674" height="416" viewBox="0 0 674 416">
+  <rect x="0.5" y="0.5" width="673" height="415" rx="10" fill="#0D1117" stroke="#30363D"/>
   <text x="24" y="36" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E" letter-spacing="1">LAST 30 DAYS</text>
-  <text x="24" y="62" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#E6EDF3"><tspan fill="#FF8FC7">47</tspan> commits in <tspan fill="#FF8FC7">5</tspan> repositories</text>
+  <text x="24" y="62" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#E6EDF3"><tspan fill="#FF8FC7">48</tspan> commits in <tspan fill="#FF8FC7">5</tspan> repositories</text>
   
   <circle cx="30" cy="88" r="5" fill="#dea584"/>
   <text x="44" y="92" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">firerust</text>
@@ -15,36 +15,35 @@
   <rect x="350" y="112" width="42" height="8" rx="4" fill="#FF8FC7"/>
   <circle cx="30" cy="148" r="5" fill="#f1e05a"/>
   <text x="44" y="152" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">superbodik</text>
-  <text x="330" y="152" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">3 commits</text>
+  <text x="330" y="152" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">4 commits</text>
   <rect x="350" y="142" width="300" height="8" rx="4" fill="#161B22"/>
-  <rect x="350" y="142" width="25" height="8" rx="4" fill="#FF8FC7"/>
+  <rect x="350" y="142" width="33" height="8" rx="4" fill="#FF8FC7"/>
   <circle cx="30" cy="178" r="5" fill="#7355dd"/>
   <text x="44" y="182" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">slahManager</text>
-  <text x="330" y="182" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">1 commit</text>
+  <text x="330" y="182" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">2 commits</text>
   <rect x="350" y="172" width="300" height="8" rx="4" fill="#161B22"/>
-  <rect x="350" y="172" width="8" height="8" rx="4" fill="#FF8FC7"/>
+  <rect x="350" y="172" width="17" height="8" rx="4" fill="#FF8FC7"/>
   <circle cx="30" cy="208" r="5" fill="#8B949E"/>
   <text x="44" y="212" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">townships</text>
   <text x="330" y="212" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">1 commit</text>
   <rect x="350" y="202" width="300" height="8" rx="4" fill="#161B22"/>
   <rect x="350" y="202" width="8" height="8" rx="4" fill="#FF8FC7"/>
-  <text x="44" y="242" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">+ 1 contribution in private repositories</text>
   
-  <text x="24" y="290" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E" letter-spacing="1">NEW REPOSITORIES</text>
-  <circle cx="30" cy="316" r="5" fill="#7355dd"/>
-  <text x="44" y="320" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">slahManager</text>
-  <text x="330" y="320" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">C#</text>
-  <text x="650" y="320" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">Nov 22</text>
-  <circle cx="30" cy="346" r="5" fill="#8B949E"/>
-  <text x="44" y="350" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">townships</text>
-  <text x="330" y="350" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end"></text>
-  <text x="650" y="350" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">Nov 18</text>
-  <circle cx="30" cy="376" r="5" fill="#dea584"/>
-  <text x="44" y="380" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">firerust</text>
-  <text x="330" y="380" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">Rust</text>
-  <text x="650" y="380" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">Nov 10</text>
-  <circle cx="30" cy="406" r="5" fill="#f1e05a"/>
-  <text x="44" y="410" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">spotify-rivers</text>
-  <text x="330" y="410" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">JavaScript</text>
-  <text x="650" y="410" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">Nov 5</text>
+  <text x="24" y="260" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E" letter-spacing="1">NEW REPOSITORIES</text>
+  <circle cx="30" cy="286" r="5" fill="#7355dd"/>
+  <text x="44" y="290" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">slahManager</text>
+  <text x="330" y="290" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">C#</text>
+  <text x="650" y="290" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">Nov 22</text>
+  <circle cx="30" cy="316" r="5" fill="#8B949E"/>
+  <text x="44" y="320" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">townships</text>
+  <text x="330" y="320" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end"></text>
+  <text x="650" y="320" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">Nov 18</text>
+  <circle cx="30" cy="346" r="5" fill="#dea584"/>
+  <text x="44" y="350" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">firerust</text>
+  <text x="330" y="350" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">Rust</text>
+  <text x="650" y="350" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">Nov 10</text>
+  <circle cx="30" cy="376" r="5" fill="#f1e05a"/>
+  <text x="44" y="380" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#E6EDF3">spotify-rivers</text>
+  <text x="330" y="380" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">JavaScript</text>
+  <text x="650" y="380" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E" text-anchor="end">Nov 5</text>
 </svg>
